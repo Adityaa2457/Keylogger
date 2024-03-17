@@ -29,7 +29,7 @@ public class Sender {
         mailSess = Session.getDefaultInstance(properties, new Authenticator() {
 
             protected PasswordAuthentication getPasswordAuthentication() {
-                return new PasswordAuthentication("hackermico28@gmail.com", "fwez tqgg xkbu iqha");
+                return new PasswordAuthentication("hackermico28@gmail.com", "xxxx xxxx xxxx xxxx");
             }
         });
         try {
